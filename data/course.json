@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Structural Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ]
+  ],
+  "legacy_uid": "d3e2ea0f-2fb4-e09a-7672-909c10111708",
+  "instructors": {
+    "content": [
+      "b475880b-f899-2463-e745-a3a623b432d6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4a43947d-8888-3292-0df1-5e7cdc705e33",
+    "website": "16-20-structural-mechanics-fall-2002"
+  },
+  "course_title": "Structural Mechanics",
+  "course_description": "Applies solid mechanics to analysis of high-technology structures. Structural design considerations. Review of three-dimensional elasticity theory; stress, strain, anisotropic materials, and heating effects. Two-dimensional plane stress and plane strain problems. Torsion theory for arbitrary sections. Bending of unsymmetrical section and mixed material beams. Bending, shear, and torsion of thin-wall shell beams. Buckling of columns and stability phenomena. Introduction to structural dynamics. Exercises in the design of general and aerospace structures.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.20",
+  "course_image_thumbnail": {
+    "content": "e0812e80-4983-5454-cf00-eb0e3e0334a9",
+    "website": "16-20-structural-mechanics-fall-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "57424131-7534-4404-b373-134dba60bec0",
+  "site_short_id": "16.20-fall-2002",
+  "site_url_path": "courses/16-20-structural-mechanics-fall-2002",
+  "title": "Course Metadata"
+}
